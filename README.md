@@ -1,3 +1,6 @@
+![image](https://github.com/KenanGain/speech-to-text/assets/123521687/512e163d-21fe-4caf-a42a-68a31f99d641)
+![image](https://github.com/KenanGain/speech-to-text/assets/123521687/c191acc7-11f2-41e1-8b79-8c07569fd586)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
