@@ -1,6 +1,9 @@
 # speech-to-text
 Speech to Text using webspeech kit , next js project
 
+###Repo Activities
+![Alt](https://repobeats.axiom.co/api/embed/97fdb28cdcc1c2f557cb9b6228e877475b4c0438.svg "Repobeats analytics image")
+
 ![image](https://github.com/KenanGain/speech-to-text/assets/123521687/512e163d-21fe-4caf-a42a-68a31f99d641)
 ![image](https://github.com/KenanGain/speech-to-text/assets/123521687/c191acc7-11f2-41e1-8b79-8c07569fd586)
 
